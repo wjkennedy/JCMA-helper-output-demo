@@ -47,5 +47,3 @@ This **JCMA Error Troubleshooter** is a Streamlit-based tool that helps diagnose
 ## License
 This project is licensed under the MIT License.
 
-## Author
-Developed by [Your Name]. Contributions are welcome!
