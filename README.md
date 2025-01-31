@@ -1,6 +1,6 @@
 # JCMA Error Troubleshooter
 
-![Jiroctopus](jiroctopus.png)
+![](jiroctopus.png)
 
 ## Overview
 This **JCMA Error Troubleshooter** is a Streamlit-based tool that helps diagnose and resolve common errors encountered during Jira Cloud Migration. It automates fixes for JCMA error codes using the Jira REST API.
